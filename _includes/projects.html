@@ -16,6 +16,8 @@
     {% assign filtered_repos = site.github.public_repositories | sort: sort_order | reverse %}
   {% endif %}
 
+  {% assign filtered_repos = site.github.public_repositories | where:'archived', false | sort: sort_order | reverse %}
+
   {% for repository in filtered_repos | limit: site.projects.limit %}
     {% unless site.projects.exclude.projects contains repository.name %}
       <div class="col-xl-6 mb-3">
