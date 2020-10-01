@@ -17,6 +17,12 @@
         {% include interests.html %}
       </div>
     {% endif %}
+    
+    {% if site.languages %}
+      <div class="my-6">
+        {% include languages.html %}
+      </div>
+    {% endif %}
 
     {% unless posts_total == 0 %}
       <div class="my-6">
@@ -42,6 +48,10 @@
 
         {% if site.topics %}
           {% include interests.html %}
+        {% endif %}
+        
+        {% if site.languages %}
+          {% include languages.html %}
         {% endif %}
 
         {% unless posts_total == 0 %}
