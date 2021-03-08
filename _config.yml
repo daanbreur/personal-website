@@ -60,7 +60,7 @@ languages:
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/python/python.png
   - name: C#
     web_url: https://github.com/topics/csharp
-    image_url: https://miro.medium.com/max/3954/1*w0u2TZpEp3WfKMrlL5jTSw.png
+    image_url: https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png
   - name: Typescript
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png
