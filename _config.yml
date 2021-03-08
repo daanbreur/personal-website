@@ -58,9 +58,9 @@ languages:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/python/python.png
-  - name: C\#
+  - name: C#
     web_url: https://github.com/topics/csharp
-    image_url: https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png
+    image_url: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff0.pngfuel.com%2Fpng%2F520%2F669%2Fc-logo-png-clip-art.png&f=1&nofb=1
   - name: Typescript
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png
