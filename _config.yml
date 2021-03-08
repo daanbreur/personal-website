@@ -58,6 +58,12 @@ languages:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/python/python.png
-  - name: CS
+  - name: CSharp
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png
+  - name: Typescript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png
+  - name: C++
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png
